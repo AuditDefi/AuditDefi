@@ -1,0 +1,5 @@
+- Visit Website: https://auditdefi.net
+- View Portfolio: https://github.com/auditdefi
+- Twitter: https://twitter.com/auditdefi
+- Telegram: https://t.me/auditdefi
+- Request an audit or a KYC: https://t.me/auditdefiteam
